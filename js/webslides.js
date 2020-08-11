@@ -882,8 +882,8 @@ var WebSlides = function () {
      */
     this.options = {
       autoslide: autoslide,
-      changeOnClick: changeOnClick,
-      loop: loop,
+      changeOnClick: true,
+      loop: true,
       minWheelDelta: minWheelDelta,
       navigateOnScroll: navigateOnScroll,
       scrollWait: scrollWait,
