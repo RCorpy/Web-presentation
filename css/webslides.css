@@ -3758,7 +3758,7 @@ Slides (Counter/Arrows)
 ============================== */
 #counter,
 #navigation a {
-  color: #abc; }
+  color: black; }
 
 #webslides:hover #navigation a:hover {
   background-color: rgba(0, 10, 40, 0.8);
