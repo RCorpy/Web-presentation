@@ -881,7 +881,7 @@ var WebSlides = function () {
      * @type {Object}
      */
     this.options = {
-      autoslide: 5000,
+      autoslide: 8000,
       changeOnClick: true,
       loop: true,
       minWheelDelta: minWheelDelta,
